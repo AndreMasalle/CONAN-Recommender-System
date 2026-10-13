@@ -1,4 +1,4 @@
-# CONAN: Context-Adaptive Constraint-Aware Network for Product Recommendation
+# CONAN: Context-Adaptive Constraint-Aware GNNetwork for Product Recommendation
 
 > This repository is part of my bachelor thesis and is still under development.
 
