@@ -4,4 +4,4 @@
 
 ## Overview
 
-This repository is about building a context-adaptive constraint module for recommendation systems.
+This repository is about building a context-adaptive constraint-aware module for recommendation systems.
